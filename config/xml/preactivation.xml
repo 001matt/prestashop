@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<partners>
+<partner>
+	<name><![CDATA[eBay]]></name>
+	<module>ebay</module>
+	<checkconfiguration>
+		<key>EBAY_API_TOKEN%</key>
+	</checkconfiguration>
+	<logo><![CDATA[https://api.prestashop.com/partner/premium/images/ebay.jpg]]></logo>
+	<labels>
+		<label iso="en"><![CDATA[Improve your store's visibility and easily increase your sales]]></label>
+		<label iso="fr"><![CDATA[Améliorez la visibilité de votre boutique et augmentez vos ventes facilement]]></label>
+		<label iso="es"><![CDATA[Mejora la visibilidad de tu tienda y aumenta fácilmente tus ventas]]></label>
+		<label iso="it"><![CDATA[Migliorate l'indicizzazione del vostro e-shop e aumentate le vendite in modo rapido e veloce]]></label>
+		<label iso="de"><![CDATA[Je sichtbarer Ihr Onlineshop, desto höher Ihre Umsätze]]></label>
+		<label iso="pl"><![CDATA[Zwiększ w prosty sposób sprzedaż i widoczność Twojego e-sklepu]]></label>
+		<label iso="nl"><![CDATA[Verbeter de zichtbaarheid van uw winkel en verhoog eenvoudig uw omzet]]></label>
+	</labels>
+	<optionals>
+	</optionals>
+	<descriptions>
+	</descriptions>
+</partner><partner>
+	<name><![CDATA[Mondial Relay]]></name>
+	<module>mondialrelay</module>
+	<checkconfiguration>
+		<key>%</key>
+	</checkconfiguration>
+	<logo><![CDATA[https://api.prestashop.com/partner/premium/images/mondialrelay.png]]></logo>
+	<labels>
+		<label iso="en"><![CDATA[Offer over 4900 drop-off and pick-up points at unbeatable prices]]></label>
+		<label iso="fr"><![CDATA[Offrez plus de 4900 points relais à des prix imbattables]]></label>
+		<label iso="es"><![CDATA[Ofrece más de 4.900 puntos de entrega y recogida a precios imbatibles]]></label>
+		<label iso="nl"><![CDATA[Biedt meer dan 4.900 afhaal- en leveringspunten aan tegen onovertrefbare prijzen]]></label>
+	</labels>
+	<optionals>
+	</optionals>
+	<descriptions>
+	</descriptions>
+</partner>
+
+</partners>
